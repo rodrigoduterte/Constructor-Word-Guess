@@ -1,4 +1,4 @@
-module.export = function Letter(letter,position){
+module.exports = function Letter(letter){
     this.letter = letter;
-    this.position = position;
+    this.guessed = null;
 }

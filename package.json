@@ -1,0 +1,28 @@
+{
+  "name": "Constructor-Word-Guess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoduterte/Constructor-Word-Guess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoduterte/Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/rodrigoduterte/Constructor-Word-Guess#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "inquirer-maxlength-input-prompt": "^1.0.0",
+    "rx": "^4.1.0",
+    "rxjs": "^6.2.2",
+    "unirest": "^0.5.1",
+    "validator": "^10.4.0"
+  }
+}
